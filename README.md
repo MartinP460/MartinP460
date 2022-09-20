@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
 <h3 align="center">A passionate frontend developer based in Copenhagen, Denmark</h3>
 
-- 🔭 I’m currently working on [Onsplash](https://github.com/MartinP460/onsplash) - a clone of Unsplash
+- 🔭 I’m currently working on my portfolio website.
 
 - 💬 Ask me about **react, next.js, graphql, tailwindcss...**
 
