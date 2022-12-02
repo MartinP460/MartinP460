@@ -22,8 +22,6 @@ Projects I've developed include...
 
 My tech stack for frontend projects typically includes React, Next.js and TailwindCSS.
 
-I'm looking to gain some experience in the industry, so if you think I would be able to contribute to your company or project, don't hesitate to contact me at martin.polley460@gmail.com. Thanks!
-
 You can read more about me by visiting my [portfolio](https://www.martpol.dev/).
 
 <h3 align="left">Languages and tools</h3>
