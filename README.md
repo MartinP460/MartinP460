@@ -3,8 +3,8 @@
 <br />
 <div align="center">
   <h3>
-  <a href="https://www.martpol.dev/">
-    martpol.dev
+  <a href="https://www.mpol.dev/">
+    mpol.dev
   </a>
   </h3>
 </div>
